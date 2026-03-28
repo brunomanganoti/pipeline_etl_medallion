@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "nome": "Smartphone Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 3499.99,
+    "marca": "Samsung",
+    "descricao": "Smartphone com tela de 6.1 polegadas, 128gb de armazenamento",
+    "estoque": 45,
+    "avaliacao": 4.5,
+    "tags": ["smartphone", "android", "samsung", "5g"]
+  },
+  {
+    "id": 2,
+    "nome": "MacBook Air M2",
+    "categoria": "Informática",
+    "preco": 7999.00,
+    "marca": "Apple",
+    "descricao": "Laptop ultrafino com chip M2, 8GB de RAM e 256GB SSD",
+    "estoque": 12,
+    "avaliacao": 4.9,
+    "tags": ["laptop", "macos", "apple", "m2"]
+  },
+  {
+    "id": 3,
+    "nome": "Monitor Gamer 27' 144Hz",
+    "categoria": "Periféricos",
+    "preco": 1250.50,
+    "marca": "LG",
+    "descricao": "Monitor Full HD com 1ms de resposta e tecnologia FreeSync",
+    "estoque": 20,
+    "avaliacao": 4.7,
+    "tags": ["monitor", "gamer", "144hz", "lg"]
+  },
+  {
+    "id": 4,
+    "nome": "Fone de Ouvido WH-1000XM5",
+    "categoria": "Áudio",
+    "preco": 2100.00,
+    "marca": "Sony",
+    "descricao": "Headphone com cancelamento de ruído ativo e bateria de 30h",
+    "estoque": 8,
+    "avaliacao": 4.8,
+    "tags": ["audio", "bluetooth", "sony", "noise-cancelling"]
+  },
+  {
+    "id": 5,
+    "nome": "Teclado Mecânico BlackWidow",
+    "categoria": "Periféricos",
+    "preco": 850.00,
+    "marca": "Razer",
+    "descricao": "Teclado RGB com switches verdes e layout ABNT2",
+    "estoque": 15,
+    "avaliacao": 4.6,
+    "tags": ["teclado", "rgb", "razer", "mecanico"]
+  },
+  {
+    "id": 6,
+    "nome": "Kindle Paperwhite 16GB",
+    "categoria": "E-readers",
+    "preco": 759.00,
+    "marca": "Amazon",
+    "descricao": "Leitor digital com tela de 6.8 polegadas e temperatura de luz ajustável",
+    "estoque": 50,
+    "avaliacao": 4.9,
+    "tags": ["kindle", "leitura", "amazon", "ebook"]
+  },
+  {
+    "id": 7,
+    "nome": "Placa de Vídeo RTX 4070",
+    "categoria": "Hardware",
+    "preco": 4200.00,
+    "marca": "NVIDIA",
+    "descricao": "GPU com 12GB GDDR6X, DLSS 3 e Ray Tracing",
+    "estoque": 5,
+    "avaliacao": 4.8,
+    "tags": ["gpu", "nvidia", "hardware", "rtx"]
+  },
+  {
+    "id": 8,
+    "nome": "Smartwatch Series 9",
+    "categoria": "Vestíveis",
+    "preco": 3200.00,
+    "marca": "Apple",
+    "descricao": "Relógio inteligente com monitoramento de oxigênio e ECG",
+    "estoque": 18,
+    "avaliacao": 4.7,
+    "tags": ["smartwatch", "apple", "ios", "fitness"]
+  },
+  {
+    "id": 9,
+    "nome": "Mouse MX Master 3S",
+    "categoria": "Periféricos",
+    "preco": 550.00,
+    "marca": "Logitech",
+    "descricao": "Mouse ergonômico silencioso com sensor de 8000 DPI",
+    "estoque": 25,
+    "avaliacao": 4.9,
+    "tags": ["mouse", "logitech", "produtividade", "wireless"]
+  },
+  {
+    "id": 10,
+    "nome": "Console PlayStation 5",
+    "categoria": "Games",
+    "preco": 3800.00,
+    "marca": "Sony",
+    "descricao": "Console com leitor de disco e controle DualSense incluso",
+    "estoque": 10,
+    "avaliacao": 4.8,
+    "tags": ["console", "sony", "ps5", "gaming"]
+  },
+  {
+    "id": 11,
+    "nome": "Cadeira Gamer Ergonômica",
+    "categoria": "Móveis",
+    "preco": 1290.00,
+    "marca": "Corsair",
+    "descricao": "Cadeira com ajuste de altura, inclinação de 180 graus e suporte lombar",
+    "estoque": 15,
+    "avaliacao": 4.6,
+    "tags": ["moveis", "gamer", "setup", "ergonomia"]
+  },
+  {
+    "id": 12,
+    "nome": "SSD Interno 1TB NVMe",
+    "categoria": "Hardware",
+    "preco": 480.90,
+    "marca": "Kingston",
+    "descricao": "SSD ultra rápido com leitura de até 3500MB/s e interface PCIe Gen4",
+    "estoque": 30,
+    "avaliacao": 4.9,
+    "tags": ["ssd", "hardware", "armazenamento", "pc"]
+  },
+  {
+    "id": 13,
+    "nome": "Caixa de Som Echo Dot 5ª Geração",
+    "categoria": "Smart Home",
+    "preco": 429.00,
+    "marca": "Amazon",
+    "descricao": "Smart speaker com Alexa, sensor de temperatura e som vibrante",
+    "estoque": 22,
+    "avaliacao": 4.8,
+    "tags": ["alexa", "smart-home", "audio", "amazon"]
+  },
+  {
+    "id": 14,
+    "nome": "Câmera Mirrorless EOS R6",
+    "categoria": "Fotografia",
+    "preco": 15600.00,
+    "marca": "Canon",
+    "descricao": "Câmera profissional full-frame com gravação 4K e estabilização interna",
+    "estoque": 3,
+    "avaliacao": 5.0,
+    "tags": ["camera", "canon", "fotografia", "profissional"]
+  },
+  {
+    "id": 15,
+    "nome": "Roteador Mesh Wi-Fi 6",
+    "categoria": "Redes",
+    "preco": 899.00,
+    "marca": "TP-Link",
+    "descricao": "Sistema de roteadores para cobertura total da casa com tecnologia Wi-Fi 6",
+    "estoque": 12,
+    "avaliacao": 4.7,
+    "tags": ["wi-fi", "internet", "mesh", "redes"]
+  }
+]
