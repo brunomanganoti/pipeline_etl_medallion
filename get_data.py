@@ -6,7 +6,7 @@ def get_data(cep):
     endpoint = f"https://viacep.com.br/ws/{cep}/json/"
     response = requests.get(endpoint)
     
-    # status code 200 = OK
+    # status code 200 = requisição OK
     if response.status_code == 200:
         info_cep = response.json()
         return info_cep
