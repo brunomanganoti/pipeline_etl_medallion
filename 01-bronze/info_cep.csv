@@ -1,0 +1,42 @@
+cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi
+01310-200,Avenida Paulista,de 1512 a 2132 - lado par,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20040-002,Avenida Rio Branco,de 128 a 144 - lado par,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+80020-010,Praça General Osório,,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+30140-061,Rua dos Timbiras,de 1441/1442 a 1869/1870,,Lourdes,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+90010-001,Rua Siqueira Campos,de 0946/947 ao fim,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+70040-010,Quadra SBN Quadra 1,,,Asa Norte,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+50010-000,Avenida Guararapes,,,Santo Antônio,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+88010-000,Rua Felipe Schmidt,até 348/349,,Centro,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+74010-010,Avenida Goiás,até 548 - lado par,,Setor Central,Goiânia,GO,Goiás,Centro-Oeste,5208707,,62,9373
+04524-030,Avenida Bem-te-vi,,,Moema,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22250-040,Praia Botafogo,de 285/286 ao fim,,Botafogo,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+80420-000,Rua Comendador Araújo,até 589/590,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+40010-000,Avenida da França,,,Comércio,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+30130-000,Avenida Afonso Pena,até 653 - lado ímpar,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+90040-001,Avenida João Pessoa,de 1092/1093 ao fim,,Farroupilha,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+01001-000,Praça da Sé,lado ímpar,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20211-110,Rua Afonso Cavalcanti,,,Cidade Nova,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+81520-000,Avenida Comendador Franco,de 2132 a 3704 - lado par,,Guabirotuba,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+41810-000,Avenida Paulo VI,lado ímpar,,Pituba,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+30110-001,Avenida do Contorno,até 1191 - lado ímpar,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+70200-001,Trecho SCES Trecho 1,,,Asa Sul,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+51020-000,Avenida Boa Viagem,de 2176/2177 a 3077/3078,,Boa Viagem,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+88020-000,Avenida Hercílio Luz,até 759/760,,Centro,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+74110-010,Avenida Anhanguera,de 5831 a 6987 - lado ímpar,,Setor Oeste,Goiânia,GO,Goiás,Centro-Oeste,5208707,,62,9373
+05407-002,Rua Cardeal Arcoverde,de 1341 a 1867 - lado ímpar,,Pinheiros,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+21031-000,Rua Aimara,,,Ramos,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+82200-000,Rua Mateus Leme,de 2711/2712 a 4669/4670,,São Lourenço,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+40140-000,Avenida Princesa Isabel,lado par,,Barra,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+08410-000,Rua Salvador Gianetti,,,Guaianazes,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22041-001,Avenida Atlântica,de 2174 a 2634 - lado par,,Copacabana,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+80730-000,Rua Padre Anchieta,de 901 a 1323 - lado ímpar,,Bigorrilho,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+90620-110,Rua São Manoel,de 1051/1052 a 1949/1950,,Rio Branco,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+88040-001,Rua Deputado Antônio Edu Vieira,de 409 a 1073 - lado ímpar,,Pantanal,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+74210-010,Avenida T 2,até 1198 - lado par,,Setor Bueno,Goiânia,GO,Goiás,Centro-Oeste,5208707,,62,9373
+01153-000,Rua Vitorino Carmilo,,,Barra Funda,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20550-010,Rua São Francisco Xavier,até 321 - lado ímpar,,Tijuca,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+80230-010,Avenida Sete de Setembro,de 2195 a 3899 - lado ímpar,,Rebouças,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+41720-000,Rua João José Rescala,,,Imbuí,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90050-001,Rua José do Patrocínio,até 411 - lado ímpar,,Cidade Baixa,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+02011-000,Rua Voluntários da Pátria,até 891 - lado ímpar,,Santana,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20271-060,Rua Professor Gabizo,até 130 - lado par,,Tijuca,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
