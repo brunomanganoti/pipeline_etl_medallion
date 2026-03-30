@@ -3,6 +3,8 @@ import pandas as pd
 from db_config import DataBase
 from dotenv import load_dotenv
 
+input_dir = "02-silver"
+
 # recupera os valores do arquivo .env
 load_dotenv()
 host_db = os.getenv("POSTGRES_HOST", "localhost")
@@ -11,15 +13,17 @@ db = os.getenv("POSTGRES_DB")
 user_db = os.getenv("POSTGRES_USER")
 password_db = os.getenv("POSTGRES_PASSWORD")
 
-if __name__ == "__main__":
-    db = DataBase(host=host_db, port=port_db, database=db, user=user_db, password=password_db)
+db = DataBase(host=host_db,
+              port=port_db,
+              database=db,
+              user=user_db,
+              password=password_db)
 
-    df = pd.DataFrame({"id": [1,2,3], "nomes": ["Bruno","Lucas","Sebastian"]})
+for file in os.listdir(input_dir):
+    nome_tabela = file.replace(".parquet","")
+    df = pd.read_parquet(f"{input_dir}/{file}")
+    db.cria_tabela(nome_tabela, df.columns.tolist())
+    db.insere_dados(nome_tabela, df)
 
-    db.cria_tabela("teste", df.columns.tolist())
-
-    db.insere_dados("teste", df)
-
-    print(db.select_all_tabela("teste", 10))
-
-    db.close()
+db.close()
+print("Processo finalizado.")
