@@ -47,7 +47,7 @@ Ter o Python 3 e o Docker instalados em sua máquina.
 Clone o repositório e crie o seu arquivo de configuração de variáveis de ambiente:
 
 1. Renomeie o arquivo `.env.example` para `.env`.
-2. Preencha o arquivo `.env` com as suas credenciais locais (usuário e senha).
+2. Preencha o arquivo `.env` com as suas credenciais locais (usuário, senha, nome do banco de dados etc.).
 
 ### 3. Subindo o Banco de Dados
 Inicie o contêiner do PostgreSQL utilizando o Docker Compose:
@@ -56,5 +56,12 @@ Inicie o contêiner do PostgreSQL utilizando o Docker Compose:
 docker-compose up
 ```
 
-### 4. Execução do Pipeline
+### 4. Instalação das Dependências
+Instale as bibliotecas Python necessárias:
+
+```bash
+pip install -r requisitos.txt
+```
+
+### 5. Execução do Pipeline
 Com o banco rodando e as dependências instaladas, execute os scripts de normalização e inserção de dados. Opcionalmente, utilize o Jupyter Notebook na camada Gold para consultar e visualizar a tabela final.
