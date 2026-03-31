@@ -43,7 +43,7 @@ O fluxo de dados segue as seguintes etapas:
 ### 1. Pré-requisitos
 Ter o Python 3 e o Docker instalados em sua máquina.
 
-### 2. Configuração do Ambiente
+### 2. Configuração do ambiente
 Clone o repositório e crie o seu arquivo de configuração de variáveis de ambiente:
 
 1. Renomeie o arquivo `.env.example` para `.env`.
@@ -56,12 +56,12 @@ Inicie o contêiner do PostgreSQL utilizando o Docker Compose:
 docker-compose up
 ```
 
-### 4. Instalação das Dependências
+### 4. Instalação das pependências
 Instale as bibliotecas Python necessárias:
 
 ```bash
 pip install -r requisitos.txt
 ```
 
-### 5. Execução do Pipeline
+### 5. Execução do pipeline
 Com o banco rodando e as dependências instaladas, execute os scripts de normalização e inserção de dados. Opcionalmente, utilize o Jupyter Notebook na camada Gold para consultar e visualizar a tabela final.
