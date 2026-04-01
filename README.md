@@ -56,7 +56,7 @@ Inicie o contêiner do PostgreSQL utilizando o Docker Compose:
 docker-compose up
 ```
 
-### 4. Instalação das pependências
+### 4. Instalação das dependências
 Instale as bibliotecas Python necessárias:
 
 ```bash
