@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from db_config import DataBase
+from scripts.db_config import DataBase
 from dotenv import load_dotenv
 
 input_dir = "02-silver"
