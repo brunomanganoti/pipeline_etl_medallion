@@ -67,6 +67,8 @@ pip install -r requisitos.txt
 Com o banco rodando e as dependências instaladas, execute os scripts de normalização e inserção de dados. Opcionalmente, utilize o Jupyter Notebook na camada Gold para consultar e visualizar a tabela final.
 
 ## Dashboard
+### Alterações feitas:
+  * Criada coluna calculada de idade a partir da data de nascimento;
+  * Criada coluna condicional para atribuição de faixa etária.
 
-### Resumo simples dos dados aplicados em visualizações:
 <img src="PowerBI/dash_preview.jpg">
